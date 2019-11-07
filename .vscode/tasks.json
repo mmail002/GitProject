@@ -1,0 +1,23 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "g++.exe build active file",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-pedantic", 
+                "-ggdb"  
+                "-o",   
+                "${workspaceFolder}\\${fileBasenameNoExtension}.exe"    //output file name
+                "${workspaceFolder}\\*.cpp",  //${file} gives full path of the file
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
