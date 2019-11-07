@@ -9,7 +9,11 @@
 
 using  namespace std;
 
-char * names[] = { "mmail002", NULL };
+//please add your github user to names
+char * names[] = { "mmail002", 
+                    NULL };
+
+
 int main()
 { 
 
