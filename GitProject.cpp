@@ -13,7 +13,6 @@ using  namespace std;
 //another change
 char * names[] = { "MLalanne25","demoinclass", "mmail002", "rmarh001", "qle002",
 					"winkhanh", "Yosigi12944","tpeck003", "PerryW11", "johannsilvanus"
-                    NULL };
 
 
 int main()
