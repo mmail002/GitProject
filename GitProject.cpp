@@ -6,6 +6,7 @@ using  namespace std;
 
 //please add your github user to names
 //another change
+char * names[] = { "ManhNguyen1010", };
 
 int main()
 {
