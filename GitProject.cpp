@@ -11,7 +11,7 @@ using  namespace std;
 
 //please add your github user to names
 //another change
-char * names[] = { "John Lynch", "Tyler Wells", "Martin Mailoux"};
+char * names[] = { "John Lynch", "Jlync006", "Tyler Wells", "Twell010"};
 
 int main()
 {
