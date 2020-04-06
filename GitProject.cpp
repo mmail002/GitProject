@@ -1,12 +1,17 @@
-/* GitProject.cpp : Defines the entry point for the console application.
+/*
+Name: John Lynch, Tyler Wells
+Teacher: Dr. Martin Mailoux
+Course: OOP
+Date: 4.6.2020
 */
+
 #include <iostream>
 
 using  namespace std;
 
 //please add your github user to names
 //another change
-char * names[] = { "Randy Brooks", "rbroo008", "cbarton236"};
+char * names[] = { "John Lynch", "Tyler Wells", "Martin Mailoux"};
 
 int main()
 {
@@ -16,5 +21,5 @@ int main()
 
 	for ( int x = 0 ; names[ x ] != NULL ; x++ ) {
 		cout << names[x] << endl;
-	}
+	} 
 }
