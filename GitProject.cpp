@@ -7,11 +7,11 @@ Date: 4.6.2020
 
 #include <iostream>
 
-using  namespace std;
+using  namespace std; 
 
 //please add your github user to names
 //another change
-char * names[] = { "Sheng Gao", "sgao001@plattsburgh.edu"};
+char * names[] = { "Quang Nguyen", "qnguy004@plattsburgh.edu"};
 
 int main()
 {
