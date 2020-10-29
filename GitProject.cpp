@@ -1,8 +1,5 @@
 /*
-Name: John Lynch, Tyler Wells
-Teacher: Dr. Martin Mailoux
-Course: OOP
-Date: 4.6.2020
+Please add your name to names
 */
 
 #include <iostream>
