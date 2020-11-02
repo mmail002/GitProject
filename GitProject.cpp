@@ -8,7 +8,7 @@ using  namespace std;
 
 //please add your github user to names
 //another change
-char * names[] = { "mmail002", "Naol Legesse","Nlege001 ", "Meron Yohannes Mengistu", "mmeng004"};
+char * names[] = { "mmail002", "Naol Legesse","Nlege001 ", "Meron Mengistu", "mmeng004"};
 
 int main()
 {
