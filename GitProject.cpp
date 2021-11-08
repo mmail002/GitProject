@@ -9,7 +9,7 @@ using  namespace std;
 
 //please add your github user to names
 //another change
-char * names[] = { "add your name to this list", "mmail002", "ewoodruff100", "mdedh001", "IsaiahMars"};
+char * names[] = { "add your name to this list", "mmail002", "ewoodruff100", "mdedh001", "IsaiahMars", "dantrua001"};
 
 int main()
 {
@@ -20,5 +20,5 @@ int main()
 
 	for ( int x = 0 ; names[ x ] != NULL ; x++ ) {
 		cout << names[x] << endl;
-	} 
+	}
 }
