@@ -9,11 +9,7 @@ using  namespace std;
 
 //please add your github user to names
 //another change
-<<<<<<< HEAD
-char * names[] = { "add your name to this list", "mmail002", "ewoodruff100", "mdedh001"};
-=======
-char * names[] = { "add your name to this list", "mmail002", "ewoodruff100", "jssem001"};
->>>>>>> 71ac71b46c9edaf3d863c8f90ba50fe078564b8a
+char * names[] = { "add your name to this list", "mmail002", "ewoodruff100", "mdedh001", "IsaiahMars"};
 
 int main()
 {
