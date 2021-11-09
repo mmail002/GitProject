@@ -3,10 +3,6 @@ Please add your name to names
 Mann Dedhia
 */
 
-
-
-fdfdfdfffd
-
 #include <iostream>
 
 using  namespace std;
