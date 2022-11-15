@@ -1,5 +1,6 @@
 /*
 Please add your name to names
+for demo !!!!
 */
 
 #include <iostream>
@@ -7,7 +8,7 @@ Please add your name to names
 using  namespace std;
 
 //please add your github user to names
-//another change
+//another change   
 char * names[] = { "add your name to this list", "mmail002", };
 
 int main()
