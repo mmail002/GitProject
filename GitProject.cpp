@@ -5,20 +5,20 @@ for demo !!!!
 
 #include <iostream>
 
-using  namespace std;
+using namespace std;
 
-//please add your github user to names
-//another change   
-char * names[] = { "add your name to this list", "mmail002", "nortondav18", "Mooshimi", "abrun014", "Aouncute", "shanthan-reddy372", "dgrant6" };
+// please add your github user to names
+// another change
+char *names[] = {"add your name to this list", "mmail002", "nortondav18", "Mooshimi", "abrun014", "Aouncute", "shanthan-reddy372", "dgrant6", "endalkK"};
 
 int main()
 {
 	cout << "hello class" << endl; // this is a comment
 
-
 	string s;
 
-	for ( int x = 0 ; names[ x ] != NULL ; x++ ) {
+	for (int x = 0; names[x] != NULL; x++)
+	{
 		cout << names[x] << endl;
 	}
 }
